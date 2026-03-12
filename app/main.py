@@ -18,8 +18,8 @@ def main():
     for file in result["generated_files"]:
         print(f"- {file}")
 
-    print("\n=== Análise gerada ===")
-    print(result["analysis"])
+    print("\n=== Relatório final ===")
+    print(result["report"])
 
 
 if __name__ == "__main__":

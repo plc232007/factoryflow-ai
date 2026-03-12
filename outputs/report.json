@@ -1,0 +1,23 @@
+{
+  "project": "FactoryFlow AI",
+  "status": "success",
+  "mode": "mock",
+  "generated_at": "2026-03-12T18:26:37.029116Z",
+  "requirement_summary": "a",
+  "agents_executed": [
+    "AnalystAgent",
+    "ArchitectAgent",
+    "PlannerAgent",
+    "CodeGeneratorAgent",
+    "TestGeneratorAgent"
+  ],
+  "generated_files": [
+    "outputs/requirements_analysis.md",
+    "outputs/architecture.md",
+    "outputs/tasks.md",
+    "generated/task.py",
+    "generated/task_service.py",
+    "generated/test_task_service.py",
+    "outputs/report.json"
+  ]
+}

@@ -45,7 +45,7 @@ Com base no requisito informado, as entidades mais prováveis são:
 - Não estão definidos filtros adicionais de consulta.
 
 ## Requisito original analisado
-Preciso de um sistema de gerenciamento de tarefas (To-Do List) simples. O usuário deve conseguir cadastrar uma tarefa com título, descrição e prioridade (baixa, média, alta). O sistema deve permitir listar as tarefas pendentes, marcar uma tarefa como concluída e excluir itens. A interface pode ser via linha de comando ou uma API REST básica.
+a
 
 ## Observação
 Esta resposta foi gerada em **modo mock**, sem chamada a um modelo externo.
